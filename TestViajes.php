@@ -63,7 +63,7 @@ function seleccionarOpcion() {
         // Function solicitarNumeroEntre($min, $max), reusada el archivo tateti.php
     return $opcion;
 }
-
+//hola hola hola hola
 //Inicialización de variables
 $viajesRealizados=[];
 $j= 1;
